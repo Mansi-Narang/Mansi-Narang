@@ -1,3 +1,5 @@
+![Readme Header](./github-header-image.png)
+
 # 💫 About Me:
 👋 Hi, I'm Mansi Narang, a passionate Full-Stack Developer and a Computer Science Engineering student at Chandigarh University.<br>💻 I enjoy building scalable, user-centric applications using MERN stack, SQL, and modern web technologies.<br>🌱 Currently enhancing my skills in automation and database management while contributing to real-world projects.<br>🚀 Featured projects include WanderLust, Student Information System, and Weather Man—explore them on my GitHub!<br>📫 Connect with me on LinkedIn or check out my portfolio.
 
