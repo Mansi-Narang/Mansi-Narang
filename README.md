@@ -101,9 +101,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
-  <source media="(prefers-color-scheme: light)" srcset="">
-  <img alt="pacman contribution graph" src="">
+  <source media="(prefers-color-scheme: dark)" srcset="github_mansi_snake_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github_mansi_snake_light.svg">
+  <img alt="pacman contribution graph" src="github_mansi_snake_dark.svg">
 </picture>
 
 ###
