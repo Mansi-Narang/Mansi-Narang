@@ -76,9 +76,6 @@
   <a href="mailto:mansinarang1509@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="83" height="33" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/mansi.narang_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="83" height="33" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
